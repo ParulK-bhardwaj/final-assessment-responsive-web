@@ -9,29 +9,29 @@
 </head>
 <body>
 	
-	<main class="container">
-			<form>
-				<label>
+	<main class="container" aria-label="Image editor">
+			<form aria-label="Filter options form"> 
+				<label for="hue">
 					<span>Hue Rotate</span>
 					<input id="hue" type="range" min="0" max="360" value="0" />
 				</label>
 				
-				<label>
+				<label for="blur">
 					<span>Blur</span>
 					<input id="blur" type="range" min="0" max="40" value="0" />
 				</label>
 
-				<label>
+				<label for="contrast">
 					<span>Contrast</span>
 					<input id="contrast" type="range" min="0" max="400" value="50" />
 				</label>
 
-				<label>
+				<label for="saturation">
 					<span>Saturation</span>
 					<input id="saturation" type="range" min="0" max="200" value="100" />
 				</label>
 			</form>
-			<img src="./dali.png" width="400" height="400" alt="Collage of 4 Dali Images"/>
+			<img src="./dali.png" width="400" height="400" alt="Collage of 4 Dali Images" aria-label="Image preview of the Dali-image Collage"/>		
 	</main>
 
 

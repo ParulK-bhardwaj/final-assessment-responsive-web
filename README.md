@@ -1,15 +1,15 @@
 # Final Assessment
 
-## Screenshots:
+## Finished Work: Screenshots:
 
 ### Desktop
-Desktop.png
+<img width="742" alt="Desktop" src="https://user-images.githubusercontent.com/111934039/236303992-f57937ea-e6ad-4f9f-b70c-3f14c8e2a17e.png">
 
 ### Tablet
-./Tablet.png
+<img width="377" alt="Tablet" src="https://user-images.githubusercontent.com/111934039/236304035-0f53b83e-ebbf-4ca4-9d32-3e28108649a9.png">
 
 ### Mobile
-./Mobile.png
+<img width="372" alt="Mobile" src="https://user-images.githubusercontent.com/111934039/236304071-d2f546ed-9395-4e52-8327-78ccf5552c33.png">
 
 We have a new image editing app. Your job is to style it, make it responsive and as accessible as you can. 
 
