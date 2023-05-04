@@ -3,7 +3,7 @@
 ## Screenshots:
 
 ### Desktop
-./Desktop.png
+Desktop.png
 
 ### Tablet
 ./Tablet.png
