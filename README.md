@@ -1,5 +1,16 @@
 # Final Assessment
 
+## Screenshots:
+
+### Desktop
+./Desktop.png
+
+### Tablet
+./Tablet.png
+
+### Mobile
+./Mobile.png
+
 We have a new image editing app. Your job is to style it, make it responsive and as accessible as you can. 
 
 Start with the source files here. 
